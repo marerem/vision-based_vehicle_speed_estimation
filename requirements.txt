@@ -1,0 +1,8 @@
+opencv-python
+numpy
+h5py
+matplotlib
+scikit-image
+tensorflow
+keras
+imgaug
